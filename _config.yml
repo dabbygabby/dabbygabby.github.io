@@ -4,6 +4,7 @@ relative-links:
   enabled: true
   collections: true
 include:
+  - README.md
   - Over.md
   - TestPg.md
   - readinglist.md
