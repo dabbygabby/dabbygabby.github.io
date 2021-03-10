@@ -6,4 +6,4 @@ relative-links:
 include:
   - README.md
   - Over.md
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
