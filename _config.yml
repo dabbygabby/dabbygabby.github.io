@@ -6,6 +6,7 @@ relative-links:
 include:
   - README.md
   - Over.md
+  - TestPg.md
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
