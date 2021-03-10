@@ -5,13 +5,16 @@ relative-links:
   collections: true
 include:
   - README.md
-  - Over.md
+  - 001.md
   - TestPg.md
   - readinglist.md
+exclude:
+  - 001-ref.md
+  
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
-title: Saurabh Dabral 
+title: Ascending and Descending
 
 search:
   # Split pages into sections that can be searched individually
