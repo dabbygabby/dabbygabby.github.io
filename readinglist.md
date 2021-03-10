@@ -1,4 +1,5 @@
 # Reading List
+---
 
 ## Book Recommendations
 ---
@@ -22,6 +23,7 @@
 - [Jay Alammar's Blog](https://jallamar.github.io/)
 
 ## Yet to Start
+---
 - Energy - Vaclav Smil
 - World Brain - H.G. Wells 
 - The Rise and Fall of Nations - Ruchir Sharma  
