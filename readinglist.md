@@ -21,6 +21,7 @@
 - [Paul Graham Essays](http://www.paulgraham.com/)
 - [Farnam Street](https://fs.blog/)
 - [Jay Alammar's Blog](https://jallamar.github.io/)
+- [Seth's Blog](https://seths.blog)
 
 ## Yet to Start
 ---
