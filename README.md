@@ -9,11 +9,11 @@ permalink: /
 > “It is better to solve one problem five different ways, than to solve five problems one way.” 
  -George Polya
 
-## Notes on stuff
+## Latest
 - [First Blog](/001.html)
 
-## Stuff on notes 
-- [First Blog References](/001-ref.html)
+## The matrix ain't perfect
+- [Build something Good](/problems.html)
 
 ## My Reading List
 - [The Real OGs](/readinglist.html)
