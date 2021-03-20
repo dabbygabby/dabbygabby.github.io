@@ -15,6 +15,7 @@
 - Chaos - James Gleik
 - How to Lose a Country - Ece Temelkuran
 - Flow - Mihaly Csikszentmihalyi
+- The man in the high castle - Philip K. Dick
 
 ## Blogs I follow
 ---
